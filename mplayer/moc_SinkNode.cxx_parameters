@@ -1,0 +1,8 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/sl1pkn07/aplicaciones/phonon-mplayer-git/src/phonon-mplayer/mplayer/moc_SinkNode.cxx
+/home/sl1pkn07/aplicaciones/phonon-mplayer-git/src/phonon-mplayer/mplayer/SinkNode.h

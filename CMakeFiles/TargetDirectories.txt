@@ -1,0 +1,2 @@
+/home/sl1pkn07/aplicaciones/phonon-mplayer-git/src/phonon-mplayer/mplayer/libmplayer/CMakeFiles/libmplayer.dir
+/home/sl1pkn07/aplicaciones/phonon-mplayer-git/src/phonon-mplayer/mplayer/CMakeFiles/phonon_mplayer.dir
